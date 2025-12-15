@@ -1,4 +1,4 @@
 # Local datasets / downloads (created at runtime)
 flower/data/
 flower/__pycache__/
-flower/output/
+flower/outputs/
